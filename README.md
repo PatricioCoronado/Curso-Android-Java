@@ -7,7 +7,7 @@ Impartido por la Universidad Politécnica de Valencia en edX
 ## Descripción
 Práctica realizada durante el curso
 
-## [Mis Apuntes](https://github.com/PatricioCoronado/Curso-Android-Java/blob/unidad_4/Docs/Apuntes.pdf)
+## [Mis Apuntes](https://github.com/PatricioCoronado/Curso-Android-Java/blob/master/Docs/Apuntes.pdf)
 
 
-![Alt text](https://github.com/PatricioCoronado/Curso-Android-Java/blob/unidad_4/Docs/Robot.png "Optional title")
+![Alt text](https://github.com/PatricioCoronado/Curso-Android-Java/blob/master/Docs/Robot.png "Optional title")
