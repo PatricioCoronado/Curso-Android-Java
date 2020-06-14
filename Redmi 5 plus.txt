@@ -1,0 +1,51 @@
+Xiaomi Redmi 5 Plus, especificaciones técnicas
+XIAOMI REDMI 5 PLUS
+
+DISEÑO
+
+158,5 x 75,4 x 8,05 mm
+180 g
+Aluminio unibody
+Cristal 2.5D
+Lector de huellas trasero
+
+PANTALLA
+
+5,99 pulgadas 18:9 68 x 135 mm
+FullHD+ 2.160 x 1.080 píxeles
+403 ppp
+Brillo 450 nits
+
+PROCESADOR
+
+Snapdragon 625
+Octa-core 2 GHz
+Adreno 506
+
+RAM
+
+4 GB (opción de 3 GB)
+
+CAPACIDAD
+
+64 GB + MicroSD (opción de 32 GB)
+
+SOFTWARE
+
+Android 7.1.2 Nougat + MIUI 9.2
+
+CÁMARA TRASERA
+
+12 MP, f/2.2, sensor 1.25μm, flash LED doble tono, PDAF, vídeos FullHD
+
+CÁMARA FRONTAL
+
+5 MP, LED tipo antorcha, modo belleza, vídeos FullHD
+
+CONECTIVIDAD
+
+LTE Dual SIM, WiFi, Bluetooth 4.2, GPS-Glonass-Beidou, minijack, MicroUSB
+
+BATERÍA
+
+4.000 mAh
